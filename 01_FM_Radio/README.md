@@ -3,8 +3,11 @@
 A battery-powered FM stereo receiver kit that I assembled, tested, and investigated to understand how a modern radio works.
 
 **Status:** Completed
+
 **Project type:** Educational kit assembly and functional analysis
+
 **Main IC:** RDA5807FP FM receiver
+
 **Skills:** Soldering, PCB assembly, testing, troubleshooting, datasheet research
 
 ![Completed FM radio](photos/finished-radio.jpg)
