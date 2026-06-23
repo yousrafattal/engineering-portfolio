@@ -6,7 +6,7 @@ Finished radio
 
 ```text
 PCB
-├─ resistors, capacitors, buttons
+└─ resistors, capacitors, buttons
 └─ radio IC package
    └─ silicon die
       └─ circuit blocks
