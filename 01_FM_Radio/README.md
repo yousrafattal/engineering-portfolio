@@ -185,7 +185,7 @@ The project helped me understand:
 
 ## Project Scope
 
-This was an educational kit rather than an original circuit or PCB design.
+This was an educational kit rather than an original circuit or PCB design. I learnt through reverse engineering.
 
 My work involved:
 
