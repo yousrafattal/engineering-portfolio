@@ -208,4 +208,4 @@ I did not design the receiver IC, circuit, or PCB.
 
 ## References
 
-[View the RDA5807FP datasheet](01_FM_Radio/files/RDA5807FP-datasheet.pdf)
+[RDA5807FP FM Receiver Datasheet](files/RDA5807FP-datasheet.pdf)
