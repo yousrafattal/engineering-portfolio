@@ -4,7 +4,7 @@ This project was the first that actually made me question, wait what is inside a
 
 Finished radio
 
-```
+```text
 PCB
 ├─ resistors, capacitors, buttons
 └─ radio IC package
