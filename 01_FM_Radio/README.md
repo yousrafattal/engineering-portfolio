@@ -62,7 +62,7 @@ The antenna receives several radio stations at the same time. The receiver selec
   <img src="schematics/FM%20circuit%20schematic.jpg" alt="FM radio circuit schematic" width="500">
 </p>
 
-This schematic closely matches the component values and five-button arrangement of the assembled PCB. However, its direct button connections differ from the I²C-only control method described in the public RDA5807FP datasheet, so the exact receiver IC variant remains unconfirmed.
+This schematic closely matches the component values and five-button arrangement of the assembled PCB. However, its direct button connections differ from the I²C-only control method described in p[...]
 
 ## How the Radio Works
 
@@ -159,7 +159,7 @@ I have kept this as an open question rather than presenting an unsupported concl
 
 This project began as a soldering exercise but became my first serious investigation into what exists inside an integrated circuit.
 
-It introduced me to what I think of as the **“smaller universes” of electronics**:
+It introduced me to what I think of as the **"smaller universes" of electronics**:
 
 ```text
 Completed FM radio
@@ -206,9 +206,9 @@ I did not design the receiver IC, circuit, or PCB.
 
 ## Media
 
-* [Completed radio](photos/finished-radio.jpg)
-* [PCB front](photos/pcb-front.jpg)
-* [PCB back](photos/pcb-back.jpg)
+* [Completed radio](photos/FM%20assembly%20vid.mp4)
+* [PCB front](photos/FM%20front.jpg)
+* [PCB back](photos/FM%20back.jpg)
 * [Testing setup](photos/testing-setup.jpg)
 * [PCB component layout](schematics/pcb-component-layout.jpg)
 
