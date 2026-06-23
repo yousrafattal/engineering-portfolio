@@ -56,7 +56,7 @@ The antenna receives several radio stations at the same time. The receiver selec
 
 ## Circuit Schematic
 
-![Closest matching schematic for the FM radio kit](schematics/ZY-101FM-2-kit-schematic.png)
+![Closest matching schematic for the FM radio kit](schematics/fm-circuit-schematic.png)
 
 This schematic closely matches the component values and five-button arrangement of the assembled PCB. However, its direct button connections differ from the I²C-only control method described in the public RDA5807FP datasheet, so the exact receiver IC variant remains unconfirmed.
 
