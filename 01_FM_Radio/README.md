@@ -54,6 +54,12 @@ The antenna receives several radio stations at the same time. The receiver selec
 | Battery holder     | Powers the circuit                                    |
 | PCB                | Supports and connects all components                  |
 
+## Circuit Schematic
+
+![Closest matching schematic for the FM radio kit](schematics/ZY-101FM-2-kit-schematic.png)
+
+This schematic closely matches the component values and five-button arrangement of the assembled PCB. However, its direct button connections differ from the I²C-only control method described in the public RDA5807FP datasheet, so the exact receiver IC variant remains unconfirmed.
+
 ## How the Radio Works
 
 ### 1. Receiving the signal
