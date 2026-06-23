@@ -29,19 +29,15 @@ Although the PCB contains relatively few components, most of the receiver is int
 
 ## System Overview
 
-```text
-FM broadcast signals
-        ↓
-Headphone cable acting as antenna
-        ↓
-RDA5807FP receiver IC
-        ↓
-Station selection and FM demodulation
-        ↓
-Left and right audio outputs
-        ↓
-Headphones
+```mermaid
+flowchart LR
+    A["FM broadcast signals"] --> B["Headphone cable<br/>acts as antenna"]
+    B --> C["RDA5807FP receiver IC"]
+    C --> D["Station selection<br/>and FM demodulation"]
+    D --> E["Left and right<br/>audio outputs"]
+    E --> F["Headphones"]
 ```
+
 
 The antenna receives several radio stations at the same time. The receiver selects one station, extracts its audio information, and produces left and right audio signals for the headphones.
 
