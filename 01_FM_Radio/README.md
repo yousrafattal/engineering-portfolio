@@ -10,7 +10,7 @@ A battery-powered FM stereo receiver kit that I assembled, tested, and investiga
 
 **Skills:** Soldering, PCB assembly, testing, troubleshooting, datasheet research
 
-![Completed FM radio](photos/fm-front.jpg)
+![Completed FM radio](photos/FM%20front.jpg)
 
 ## Project Overview
 
@@ -145,7 +145,7 @@ The available RDA5807FP datasheet describes the chip as being controlled through
 
 However, this board uses direct power, volume, and station buttons without an obvious separate microcontroller.
 
-The exact control method used by this particular kit has not yet been confirmed. Possible explanations include a different chip revision, an undocumented operating mode, a compatible derivative, or incomplete public documentation.
+The exact control method used by this particular kit has not yet been confirmed. Possible explanations include a different chip revision, an undocumented operating mode, a compatible derivative, [...]
 
 I have kept this as an open question rather than presenting an unsupported conclusion.
 
