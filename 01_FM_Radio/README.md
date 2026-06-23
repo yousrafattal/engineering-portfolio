@@ -208,5 +208,4 @@ I did not design the receiver IC, circuit, or PCB.
 
 ## References
 
-* *RDA5807FP Single-Chip Broadcast FM Radio Tuner Datasheet*
-* Supplied kit assembly information
+[View the RDA5807FP datasheet](01_FM_Radio/files/RDA5807FP-datasheet.pdf)
