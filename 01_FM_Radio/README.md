@@ -10,7 +10,7 @@ A battery-powered FM stereo receiver kit that I assembled, tested, and investiga
 
 **Skills:** Soldering, PCB assembly, testing, troubleshooting, datasheet research
 
-![Completed FM radio](photos/finished-radio.jpg)
+![Completed FM radio](photos/FM_frontjpg)
 
 ## Project Overview
 
