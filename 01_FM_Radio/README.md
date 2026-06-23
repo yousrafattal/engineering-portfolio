@@ -56,7 +56,7 @@ The antenna receives several radio stations at the same time. The receiver selec
 
 ## Circuit Schematic
 
-![Closest matching schematic for the FM radio kit](schematics/fm-circuit-schematic.png)
+![FM radio circuit schematic](schematics/fm-circuit-schematic.jpg)
 
 This schematic closely matches the component values and five-button arrangement of the assembled PCB. However, its direct button connections differ from the I²C-only control method described in the public RDA5807FP datasheet, so the exact receiver IC variant remains unconfirmed.
 
