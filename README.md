@@ -23,3 +23,8 @@ This repository documents electronics, embedded systems, and engineering project
 - NFC Docking Mobility Stick
 
 More projects and documentation will be added over time.
+
+### Future Goals :)
+- Design my own PCB and build a project around it (or the opposite way around...)
+- A glove that interprets sign language to speaker...?
+- A variation of the dictionary bookmark (but it has a bank to keep the words AND  a flashlight to read at night)
