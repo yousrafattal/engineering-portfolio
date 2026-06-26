@@ -2,7 +2,7 @@
 
 Electrical Engineering student at LUT University.
 
-This repository documents electronics, embedded systems, and engineering projects completed during my studies.
+This repository documents electronics, embedded systems, and engineering projects completed during my free time, some coursework or research, and internship.
 
 ## Areas of Interest
 
