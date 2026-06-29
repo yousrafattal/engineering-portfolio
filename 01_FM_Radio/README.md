@@ -62,7 +62,7 @@ The antenna receives several radio stations at the same time. The receiver selec
   <img src="schematics/FM%20circuit%20schematic.jpg" alt="FM radio circuit schematic" width="500">
 </p>
 
-This schematic closely matches the component values and five-button arrangement of the assembled PCB. However, its direct button connections differ from the I²C-only control method described in p[...]
+This schematic closely matches the component values and five-button arrangement of the assembled PCB. However, its direct button connections differ from the I²C-only control method described 
 
 ## How the Radio Works
 
