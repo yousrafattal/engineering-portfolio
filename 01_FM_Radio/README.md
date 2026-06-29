@@ -2,7 +2,7 @@
 
 A battery-powered FM stereo receiver kit that I assembled, tested, and investigated to understand how a modern radio works.
 
-**Status:** Completed
+**Status:** Completed!
 
 **Project type:** Educational kit assembly and functional analysis
 
@@ -22,12 +22,12 @@ Although the PCB contains relatively few components, most of the receiver is int
 
 ## Key Outcomes
 
-* Successfully assembled and tested the receiver.
-* Received FM stations through headphones.
-* Investigated why reception improved outdoors and near a balcony.
-* Identified the main receiver IC and studied its internal architecture.
-* Learned the roles of the antenna, crystal reference, mixer, converters, and digital signal processor.
-* Documented an unresolved question about how the board implements direct button control.
+* Successfully assembled and tested the receiver
+* Received FM stations through headphones
+* Investigated why reception improved outdoors and near a balcony AND when headphone wire was stretched
+* Identified the main receiver IC and studied its internal architecture
+* Learned the roles of the antenna, crystal reference, mixer, converters, and digital signal processor
+* Documented an unresolved question about how the board implements direct button control
 
 ## System Overview
 
